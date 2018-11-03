@@ -1,1 +1,3 @@
 To test stash concept
+
+changes are stopped in the middle and not commited to git.

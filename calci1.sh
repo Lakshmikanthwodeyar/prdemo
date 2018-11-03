@@ -13,8 +13,9 @@ echo "Enter your choice"
 read ch
 
 case $ch in
-1)sum=`expr $n1 - $n2`
-   echo "Sum ="$sum;;
+1)sum=`expr $n1 + $n2`
+   #fixing bug 1 
+   echo "Sum ="$sum;; 
 
 2)sum=`expr $n1 - $n2`
    echo "Sub = "$sum;;

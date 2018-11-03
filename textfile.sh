@@ -1,4 +1,4 @@
 echo "Please enter a word"
 read word
-echo "YOu have entereted" $word "eord"
+echo "YOu have entereted" $word "word"
 
